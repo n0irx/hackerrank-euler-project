@@ -1,0 +1,9 @@
+.DS_Store
+.vscode
+
+*/**/.DS_Store
+*/**/*.jar
+*/**/*.class
+*/**/*.out
+*/**/META-INF
+*/**/build
